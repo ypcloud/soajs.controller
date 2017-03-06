@@ -15,6 +15,6 @@
     "node": "*"
   },
   "dependencies": {
-    "soajs": "ypcloud/soajs#feature/remote-k8sapi-support",
+    "soajs": "ypcloud/soajs#feature/remote-k8sapi-support"
   }
 }
