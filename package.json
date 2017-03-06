@@ -15,7 +15,6 @@
     "node": "*"
   },
   "dependencies": {
-    "soajs": "0.4.*",
-    "soajs.core.drivers": "manuelfelipe/soajs.core.drivers#feature/remote-k8sapi-support"
+    "soajs": "ypcloud/soajs#feature/remote-k8sapi-support",
   }
 }
